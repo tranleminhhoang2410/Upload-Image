@@ -1250,19 +1250,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Code\\Web\\Fullstack\\Upload-Image\\TodoList_MySQL\\TodoList_MySQL\\TodoList_MySQL.csproj",
+      "projectUniqueName": "E:\\Code\\Web\\Front-end\\ReactJS\\Upload-Image\\TodoList_MySQL\\TodoList_MySQL\\TodoList_MySQL.csproj",
       "projectName": "TodoList_MySQL",
-      "projectPath": "D:\\Code\\Web\\Fullstack\\Upload-Image\\TodoList_MySQL\\TodoList_MySQL\\TodoList_MySQL.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "D:\\Code\\Web\\Fullstack\\Upload-Image\\TodoList_MySQL\\TodoList_MySQL\\obj\\",
+      "projectPath": "E:\\Code\\Web\\Front-end\\ReactJS\\Upload-Image\\TodoList_MySQL\\TodoList_MySQL\\TodoList_MySQL.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "E:\\Code\\Web\\Front-end\\ReactJS\\Upload-Image\\TodoList_MySQL\\TodoList_MySQL\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -1321,7 +1325,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -1333,7 +1338,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.404\\RuntimeIdentifierGraph.json"
       }
     }
   }
